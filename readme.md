@@ -12,7 +12,7 @@ https://docs.google.com/document/d/1f5I8vbWAk8ah9IFpAQWN3dcWDHMqXzGb/edit?usp=sh
 Поменять установку из репозитория NFS на установку из репозитория HTTP.
 Настроить автоматическую установку для созданного kickstart файла (*) Файл загружается по HTTP.
 
-Указанного в методичке файла https://mirror.sale-dedic.com/centos/8.4.2105/isos/x86_64/CentOS-8.4.2105-x86_6 не существует, поэтому я заменил его на  
+Указанного в методичке файла https://mirror.sale-dedic.com/centos/8.4.2105/isos/x86_64/CentOS-8.4.2105-x86_6 не существует, поэтому я заменил ссылку на  
 https://vault.centos.org/8.4.2105/isos/x86_64/CentOS-8.4.2105-x86_64-dvd1.iso
 
 Так же в методичке ошибка - не хватает ```</Directory>``` в конце pxeboot.conf
